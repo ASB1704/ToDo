@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "name": "kriti",
+      "task": "jonny jonny band kr de bas",
+      "status": "pending",
+      "id": 4,
+      "due_Date": "2023-05-31"
+    },
+    {
+      "name": "masaliya",
+      "task": "vai kese hoga yr",
+      "due_Date": "2023-05-26",
+      "status": "pending",
+      "id": 5
+    },
+    {
+      "name": "gillian",
+      "task": "all izz well",
+      "status": "pending",
+      "id": 6,
+      "due_Date": "2023-05-22"
+    },
+    {
+      "name": "ankit",
+      "task": "helmp helmp bamchao",
+      "due_Date": "2023-06-16",
+      "status": "pending",
+      "id": 7
+    },
+    {
+      "name": "ASB",
+      "task": "I'm done for today",
+      "due_Date": "2023-06-24",
+      "status": "completed",
+      "id": 8
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "anurag",
+      "task": "hello avd  df ids ih dai ad a",
+      "due Date": "12/23/34",
+      "status": "pending"
+    }
+  ]
+}
